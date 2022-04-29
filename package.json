@@ -1,0 +1,32 @@
+{
+  "name": "dns-info",
+  "version": "1.0.0",
+  "description": "A Simple tool to Check out the DNS setting and DNS records of a Given Domain. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XooTB/DNS-Info.git"
+  },
+  "keywords": [
+    "DNS",
+    "DNS",
+    "Records"
+  ],
+  "author": "Samiul Alim",
+  "license": "MIT ",
+  "dependencies": {
+    "node-dig-dns": "^0.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "bugs": {
+    "url": "https://github.com/XooTB/DNS-Info/issues"
+  },
+  "homepage": "https://github.com/XooTB/DNS-Info#readme"
+}

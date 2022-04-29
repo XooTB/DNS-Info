@@ -18,4 +18,5 @@ const dns = async (domain) => {
 
   return results;
 };
+
 export default dns;
